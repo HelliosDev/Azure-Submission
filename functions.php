@@ -3,7 +3,7 @@
         echo "
         <script>
             alert('$message');
-            document.location.href = '../Pendaftaran/index.php';
+            document.location.href = '../index.php';
         </script>
         ";
     }
