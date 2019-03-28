@@ -1,9 +1,9 @@
 <?php
 
-    $database_server = "";
-    $database_username = "";
-    $database_password = "";
-    $database_name = "";
+    $database_server = "wkappserver.database.windows.net";
+    $database_username = "lixerion";
+    $database_password = "Emperor123";
+    $database_name = "User";
 
     try {
         $conn = new PDO("sqlsrv:server = $database_server; Database = $database_name", $database_username, $database_password);
