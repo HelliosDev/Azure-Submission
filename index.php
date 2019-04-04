@@ -20,7 +20,7 @@
         <table border="1">
             <thead>
                 <tr>
-                    <th>No.</th>
+                    <th>No. 123</th>
                     <th>Name</th>
                     <th>Gender</th>
                     <th>Address</th>
