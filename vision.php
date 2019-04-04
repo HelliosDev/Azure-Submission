@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Analyze Sample</title>
-    <script src="assets/jquery-3.3.1.min.js"></script>
+    <script src="../assets/jquery-3.3.1.min.js"></script>
 </head>
 <body>
 
