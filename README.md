@@ -1,2 +1,2 @@
-# Pendaftaran
-Simple program for registration
+# Azure Submission
+Simple program for picture uploading and analysis
