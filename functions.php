@@ -3,7 +3,7 @@
         echo "
         <script>
             alert('$message');
-            document.location.href = '../index.php';
+            document.location.href = '../azure_app/index.php';
         </script>
         ";
     }
